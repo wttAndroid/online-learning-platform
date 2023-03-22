@@ -17,9 +17,9 @@
 管理端源码：暂收费
 
 #### 部分页面展示
-![学生端部分页面](public/static/guanl.png))
-![教师端部分页面](public/static/jiaoshi.png))
-![管理端部分页面](public/static/guanl.png))
+![学生端部分页面](public/static/xuesheng.png)
+![教师端部分页面](public/static/jiaoshi.png)
+![管理端部分页面](public/static/guanl.png)
 
 #### 安装教程
 npm install 下载相关依赖
