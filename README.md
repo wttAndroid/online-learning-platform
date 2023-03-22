@@ -39,4 +39,4 @@ npm run build 打包
 
 #### 联系我：远程调试/二次开发/毕设
 
-![远程调试/二次开发/毕设](public/static/weixin.jpg)
+![远程调试/二次开发/毕设](public/static/weixin.jpg) 
