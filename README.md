@@ -1,23 +1,3 @@
-# scykt-front
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
 #### 介绍
 基于SpringBoot+vue的在线学习平台(学生端、教师端、管理端)，学生借助平台在线学习和交流，并且教师通过学分制的来衡量学生的学习质量。 
 
@@ -37,9 +17,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 管理端源码：暂收费
 
 #### 部分页面展示
-![学生端部分页面](static/xuesheng.png))
-![教师端部分页面](static/jiaoshi.png))
-![管理端部分页面](static/guanl.png))
+![学生端部分页面](public/static/guanl.png))
+![教师端部分页面](public/static/jiaoshi.png))
+![管理端部分页面](public/static/guanl.png))
 
 #### 安装教程
 npm install 下载相关依赖
