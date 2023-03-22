@@ -1,0 +1,42 @@
+
+
+/* 改变主题色变量 */
+// $--color-primary: linear-gradient(to right, #86efac, #3b82f6, #9333ea);
+
+// $--color-primary: linear-gradient(to right, rgb(236, 72, 153), rgb(239, 68, 68), rgb(234, 179, 8)) !default;
+// $--color-primary-light-1: mix($--color-white, $--color-primary, 10%) !default; 
+// $--color-primary-light-2: mix($--color-white, $--color-primary, 20%) !default; 
+// $--color-primary-light-3: mix($--color-white, $--color-primary, 30%) !default; 
+// $--color-primary-light-4: mix($--color-white, $--color-primary, 40%) !default; 
+// $--color-primary-light-5: mix($--color-white, $--color-primary, 50%) !default; 
+// $--color-primary-light-6: mix($--color-white, $--color-primary, 60%) !default; 
+
+$--color-primary:#ef4444;
+$--color-success:#18C9B1;
+// $--color-warning:#E6A23C;
+// $--color-danger:#F142B1;
+// $--color-info:#909399;
+
+
+/* 改变 icon 字体路径变量，必需 */
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+@import "~element-ui/packages/theme-chalk/src/index";
+
+.el-button--primary{
+  background: linear-gradient(to right, #ec4899, #ef4444, #eab308);
+  border-color: transparent;
+}
+.el-button--success{
+  background: linear-gradient(to right, #bbf7d0, #4ade80, #22c55e);
+  border-color: transparent;
+}
+.el-button--warning{
+  background: linear-gradient(to right, #f97316, #fde047);
+  border-color: transparent;
+}
+// .el-button--danger{
+//   background: linear-gradient(to right, #be123c, #db2777);
+// }
+// .el-button--info{
+//   background: linear-gradient(#111827, #4b5563);
+// }

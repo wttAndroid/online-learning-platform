@@ -1,0 +1,66 @@
+.el-icon{
+  font-size: 20px;
+  font-weight: bold;
+ 
+}
+
+.fl{
+  float: left;
+}
+.fr{
+  float: right;
+}
+body{
+  font-size: 14px;
+  color: #303133;
+  font-family: Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,"\5FAE\8F6F\96C5\9ED1",Arial,sans-serif;
+}
+
+
+.ellipsis{
+  overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.clearfix {
+  zoom: 1;
+}
+
+.clearfix:after {
+  content: "";
+  clear: both;
+  height: 0;
+  line-height: 0;
+  display: block;
+  visibility: hidden;
+}
+
+
+.center-content{
+  width: 1200px;
+  margin: auto;
+}
+
+/* @import url("https://at.alicdn.com/t/c/font_3859121_loyqj9xiyps.css"); */
+
+
+.iconfont
+{
+vertical-align: bottom;
+font-family:"iconfont"!important;
+font-size:16px;
+font-style:normal;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-font{
+  width: 20px;
+  height: 20px;
+  vertical-align: sub;
+}
+
+a{
+  cursor: pointer;
+}
