@@ -23,6 +23,8 @@
 
 管理端源码：暂收费
 
+开题报告、开题答辩ppt、中期小结、论文大纲等：暂收费
+
 #### 部分页面展示
 ![学生端部分页面](public/static/xuesheng.png)
 ![教师端部分页面](public/static/jiaoshi.png)
@@ -34,3 +36,7 @@ npm install 下载相关依赖
 npm run serve 运行
 
 npm run build 打包
+
+#### 联系我：远程调试/二次开发/毕设
+
+![远程调试/二次开发/毕设](public/static/weixin.jpg)
