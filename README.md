@@ -12,9 +12,7 @@
 后端：springboot
 
 #### 查看运行效果
-[学生端演示地址](http://123.56.144.92:8002)
-
-教师端、管理端（暂不公开）
+[演示地址](http://123.56.144.92:8001/front/dist/index.html)
 
 #### 当前项目源代码
 学生端源码：https://gitee.com/wttAndroid/online-learning-platform
