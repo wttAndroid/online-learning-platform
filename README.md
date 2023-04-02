@@ -23,7 +23,7 @@
 
 资料：开题报告、开题答辩ppt、中期小结、论文大纲、论文模板等
 
-![资料页面](http://123.56.144.92/img/fileslist.png)
+![资料页面](public/static/fileslist.png)
 
 #### 部分页面展示
 ![学生端部分页面](public/static/xuesheng.png)
