@@ -27,7 +27,11 @@
 
 #### 部分页面展示
 ![学生端部分页面](public/static/xuesheng.png)
+![学生端部分页面](src/assets/img/%E6%88%91%E7%9A%84%E4%BD%9C%E4%B8%9A.png)
+![学生端部分页面](public/static/%E4%BD%9C%E4%B8%9A%E8%AF%A6%E6%83%85%E9%A1%B5.png)
 ![教师端部分页面](public/static/jiaoshi.png)
+![教师端部分页面](public/static/%E6%88%90%E7%BB%A9%E7%AE%A1%E7%90%86.png)
+![教师端部分页面](public/static/%E9%80%89%E7%A7%80%E7%AE%A1%E7%90%86.png)
 ![管理端部分页面](public/static/guanl.png)
 
 #### 安装教程
