@@ -17,10 +17,6 @@
 #### 当前项目源代码
 学生端源码：https://gitee.com/wttAndroid/online-learning-platform
 
-教师端源码：有偿源码
-
-管理端源码：有偿源码
-
 资料：开题报告、开题答辩ppt、中期小结、论文大纲、论文模板等
 
 ![资料页面](public/static/fileslist.png)
